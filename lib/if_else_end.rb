@@ -1,1 +1,3 @@
-# Write your solution here
+code before if...end
+code inside
+code after if...end
